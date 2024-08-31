@@ -1,0 +1,24 @@
+{
+  "name": "ultimate-pop-ups",
+  "version": "1.0.0",
+  "description": "This is a package that helps you create popup menus quickly. check GitHub for documentation",
+  "main": "popUp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weirdball7/popUpModule.git"
+  },
+  "keywords": [
+    "pop",
+    "up",
+    "popup"
+  ],
+  "author": "Rotem Amitay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weirdball7/popUpModule/issues"
+  },
+  "homepage": "https://github.com/weirdball7/popUpModule#readme"
+}

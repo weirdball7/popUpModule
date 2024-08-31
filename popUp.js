@@ -1,4 +1,4 @@
-export const popUp = (...links) => {
+const popUp = (...links) => {
     let existingPopUp = document.querySelector('.popup');
     if (existingPopUp) {
         existingPopUp.remove();
@@ -19,3 +19,5 @@ export const popUp = (...links) => {
     popUp.appendChild(linksList);
     document.body.appendChild(popUp);
 };
+
+module.exports = { popUp };
